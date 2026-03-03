@@ -69,17 +69,11 @@ I build full-stack systems that strike a balance between elegance and scalabilit
   />
 </p>
 
----
-
-## 🌱 Currently Growing In
 
 <p align="center">
 Backend Architecture • System Design • Performance Optimization
 </p>
 
----
-
-## 🌷 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshika-guleria-039b01268/">
