@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
+  <img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="280"/>
 </p>
 
 <p align="center"><b>Full Stack Developer • Design × Architecture • Intentional Builder</b></p>
@@ -18,8 +18,8 @@
 
 ## 🌸 About Me
 
-<p align="center">
-I build full-stack systems that balance elegance and scalability.<br><br>
+<p align="left">
+I build full-stack systems that strike a balance between elegance and scalability.<br><br>
 • Clean architecture matters to me<br>
 • Maintainable backend > quick hacks<br>
 • Thoughtful UI with strong structure<br>
