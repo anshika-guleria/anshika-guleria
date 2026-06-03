@@ -40,7 +40,7 @@ const anshika = {
 
 </td>
 <td width="58%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="450" style="border-radius:18px"/>
+<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="440" style="border-radius:18px"/>
 </td>
 </tr>
 </table>
