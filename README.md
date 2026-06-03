@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=23&duration=3000&pause=1000&color=FF6EB4&center=true&vCenter=true&width=680&lines=Hey+there!+I'm+Anshika+%F0%9F%8E%80;Full+Stack+Developer+%E2%80%A2+Builder;Design+%C3%97+Logic+%C3%97+Clean+Backends;Always+building%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=23&duration=3000&pause=1000&color=FF6EB4&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Anshika+%F0%9F%8E%80;Full+Stack+Developer+%E2%80%A2+Builder;Design+%C3%97+Logic+%C3%97+Clean+Backends;Always+building%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,12 +14,13 @@
 
 ---
 
-<!-- ABOUT + GIF -->
-<table width="100%">
-<tr>
-<td width="82%" valign="top">
-
 ## 🌸 About Me
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="380"/>
+</div>
+
+<br/>
 
 ```ts
 const anshika = {
@@ -31,19 +32,10 @@ const anshika = {
 };
 ```
 
-🏗️ &nbsp;Building full-stack systems that balance **elegance + scale**  
-🎨 &nbsp;Strong opinions on **thoughtful UI + clean backend design**  
-🔍 &nbsp;Clean code, intentional structure, meaningful products  
-📚 &nbsp;Lifelong learner — depth over shortcuts  
-
-<br/>
-
-</td>
-<td width="58%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="280" style="border-radius:18px"/>
-</td>
-</tr>
-</table>
+🏗️ Building full-stack systems that balance **elegance + scale**  
+🎨 Strong opinions on **thoughtful UI + clean backend design**  
+🔍 Clean code, intentional structure, meaningful products  
+📚 Lifelong learner — depth over shortcuts
 
 ---
 
@@ -76,10 +68,7 @@ const anshika = {
 
 <div align="center">
 
-<!-- Streak — demolab is the most reliable host -->
-<img width="56%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
-
-<br/><br/>
+<img width="60%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
 
 </div>
 
@@ -89,30 +78,25 @@ const anshika = {
 
 <div align="center">
 
-<!-- Profile details — full width, most useful card -->
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=synthwave"/>
+<img width="76%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=synthwave"/>
 
 <br/><br/>
 
-<!-- 4 cards in 2×2 -->
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshika-guleria&theme=synthwave"/>
-&nbsp;
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshika-guleria&theme=synthwave"/>
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshika-guleria&theme=synthwave"/>
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshika-guleria&theme=synthwave"/>
 
 <br/><br/>
 
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
-&nbsp;
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshika-guleria&theme=synthwave&utcOffset=5.5"/>
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshika-guleria&theme=synthwave&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-### ✦ &nbsp;Backend Architecture &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Performance Optimization &nbsp;✦
+### ✦ Backend Architecture · System Design · Performance Optimization ✦
 
 <br/>
 
