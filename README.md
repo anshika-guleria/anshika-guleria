@@ -69,7 +69,6 @@ const anshika = {
 <div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
-
 </div>
 
 ---
