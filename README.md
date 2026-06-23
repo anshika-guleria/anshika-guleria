@@ -93,6 +93,13 @@ const anshika = {
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=anshika-guleria&theme=radical&no-frame=true&no-bg=true&margin-w=9" width="80%" />
+</p>
+
+---
+
 <div align="center">
 
 ### ✦ Backend Architecture · System Design · Performance Optimization ✦
@@ -103,6 +110,7 @@ const anshika = {
 
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-guleria-039b01268/)
 [![Gmail](https://img.shields.io/badge/Gmail-c084fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshika.guleria.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FF6EB4)](https://github.com/anshika-guleria)
@@ -110,5 +118,7 @@ const anshika = {
 </div>
 
 <br/>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,40:c084fc,100:FF6EB4&height=120&section=footer"/>
