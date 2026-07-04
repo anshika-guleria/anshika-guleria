@@ -68,7 +68,7 @@ const anshika = {
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
+<img width="55%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
 </div>
 
 ---
@@ -76,19 +76,18 @@ const anshika = {
 ## 💚 Contribution Overview
 
 <div align="center">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
 
-<img width="76%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=synthwave"/>
+<br/>
+<img width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=synthwave"/>
+<br/>
 
-<br/><br/>
-
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshika-guleria&theme=synthwave"/>
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshika-guleria&theme=synthwave"/>
-
-<br/><br/>
-
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
 
 </div>
+
+---
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
