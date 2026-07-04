@@ -45,7 +45,7 @@ const anshika = {
 
 | 🖥️ Frontend | ⚙️ Backend & DB | 🛠️ Tools & Mobile |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&perline=4"/> | <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,cs&perline=4"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=4"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&perline=4"/> | <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,cs&perline=4"/> |
 
 </div>
 
