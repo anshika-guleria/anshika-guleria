@@ -87,7 +87,6 @@ const anshika = {
 <br/><br/>
 
 <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshika-guleria&theme=synthwave&utcOffset=5.5"/>
 
 </div>
 
