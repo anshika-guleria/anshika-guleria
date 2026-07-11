@@ -111,7 +111,6 @@ const anshika = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-guleria-039b01268/)
 [![Gmail](https://img.shields.io/badge/Gmail-c084fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshika.guleria.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FF6EB4)](https://github.com/anshika-guleria)
 
 </div>
 
