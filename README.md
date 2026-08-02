@@ -61,19 +61,16 @@ const anshika = {
 <div align="center">
 
 <img width="55%" src="https://streak-stats.demolab.com?user=anshika-guleria&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshika-guleria&bg_color=151321&color=FCE7F3&title_color=F9A8D4&line=FB7185&point=C084FC&area=true&area_color=A855F7&hide_border=true"/>
 </div>
 
 ---
 
 ## 💚 Contribution Overview
-
 <div align="center">
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=synthwave"/>
 
-<br/>
-<img width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=synthwave"/>
-<br/>
-
+<img width="60%" src="https://ghstats.dev/api/card?username=anshika-guleria&theme=midnight_sakura&hide=trend,avg,followers,repos&border_radius=12"/>
 
 </div>
 
