@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EB4,60:c084fc,100:818cf8&height=210&section=header&text=Anshika%20Guleria&fontSize=56&fontAlignY=40&fontColor=ffffff&fontFamily=Nunito&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Intentional%20Creator&descSize=17&descAlignY=63&descColor=f0e6ff"/>
 
 <div align="center">
@@ -68,8 +67,61 @@ const anshika = {
 ## 💚 Contribution Overview
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
+## 💗 ECSOC — Open Source Journey
+
+<div align="center">
+
+### 🪐 Elite Coders Social Summer of Code
+
+<p>
+  <b>🏆 Global Rank #38</b> &nbsp;•&nbsp;
+  <b>⭐ 3,585 Points</b> &nbsp;•&nbsp;
+  <b>🔀 105 Merged PRs</b>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img height="50" src="https://img.shields.io/badge/📂_Projects-17-D63384?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img height="50" src="https://img.shields.io/badge/🟢_L1_PRs-34-7C3AED?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img height="50" src="https://img.shields.io/badge/🟡_L2_PRs-47-4F46E5?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img height="50" src="https://img.shields.io/badge/🔴_L3_PRs-23-B83280?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
+### 🏅 ECSOC Badges
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="160" src="https://github.com/user-attachments/assets/ab26a3c4-c3a0-482f-aee2-f01a0f6a036c" />
+    </td>
+    <td align="center">
+      <img width="160" src="https://github.com/user-attachments/assets/bf8ae828-a5c0-468f-99d5-e882473d48bd" />
+    </td>
+    <td align="center">
+      <img width="160" src="https://github.com/user-attachments/assets/5b91867e-b57f-4fdc-81a2-eff02d5510c7" />
+    </td>
+    <td align="center">
+      <img width="160" src="https://github.com/user-attachments/assets/e82359e3-663f-447e-bbcd-0aa84dc71771" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+</div>
 
 ---
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
